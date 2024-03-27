@@ -8,6 +8,7 @@ Como aquella noche en Buenos Aires
 Qué lástima que fallaste
 Me hubiera gustado estudiarte
 
+<<<<<<< HEAD
 Boca yo te amo, siempre te sigo a todos lados
 De corazón, pongan más huevos
 Porque a boca lo queremos
@@ -39,3 +40,9 @@ Y river plate, vos ya sabés, que vos vas a correr
 Y dale, dale, dale vo'
 Dale, dale, dale, dale vo'
 Boca, vamo' que ganamo'
+=======
+Al ver llegar la morena
+Que no hacía caso de naides
+Le dije con la mamúa:
+—«Va... ca... yendo gente al baile.»
+>>>>>>> 3f46836a89207d2639e220adef6df33fc6409712
